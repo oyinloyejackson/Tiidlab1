@@ -1,0 +1,63 @@
+/* display property */
+.inline-element{
+    background-color: red;
+    display: block;
+}   
+
+
+.block-element{
+    background-color: dodgerblue;
+    display: inline;
+    display: inline;
+}
+
+
+/* TEXT ALIGNMENT */
+#heading{
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    color: dodgerblue;
+}
+
+
+.number-1{
+    color: hotpink;
+    text-align: left;
+}
+
+.number-2{
+    text-align: center;
+}
+
+.number-3{
+    text-align: right;
+}
+
+.number-4{
+    text-align: justify;
+    font-size: 19px;
+    text-transform: capitalize;
+    text-indent: 20px;
+    letter-spacing: 3px;
+    line-height: 1.5;
+    word-spacing: 1.5;
+    white-space: nowrap;
+    text-decoration: none;
+    direction: ltr;
+
+}
+a{
+    text-decoration-style: none;
+}
+
+/* TEXT TRANSFORMATION */
+/* uppercase */
+/* lowercase */
+/* capitalize */
+
+
+
+
+
+
