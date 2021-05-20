@@ -11,7 +11,7 @@ header {
   right: 0;
   height: 50px;
   line-height: 50px;
-  background-color: #eee;
+  background-color: yellow (148, 134, 134);
 }
 
 header * {
@@ -28,7 +28,7 @@ header li {
 }
 
 section {
-  height: 100vh;
+  height: auto;
   border: 1px solid black;
   display: flex;
   justify-content: center;
@@ -36,8 +36,7 @@ section {
   text-align: center;
 }
 
-#hero .profile-img {
-  width: 300px;
+#hero .profile-img {max-width: ;: 100px;
 }
 
 footer {
@@ -58,7 +57,7 @@ header {
   right: 0;
   height: 50px;
   line-height: 50px;
-  background-color: #eee;
+  background-color: yellow;
 }
 
 header * {
@@ -83,8 +82,7 @@ section {
   text-align: center;
 }
 
-#hero .profile-img {
-  width: 300px;
+#hero .profile-img {max: width 100px;;
   border-radius: 50%; /* Add this line */
 }
 
@@ -156,7 +154,7 @@ section {
 }
 
 #hero .profile-img {
-  width: 300px;
+  width: 100px;
   border-radius: 50%;
 }
 
